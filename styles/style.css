@@ -37,7 +37,8 @@
 .header__title {
   margin: 0;
   margin-left: 64px;
-  width: 730px;
+  max-width: 730px;
+  width: 100%;
   z-index: 3;
 
   line-height: 96px;
@@ -50,7 +51,8 @@
   position: absolute;
   left: 64px;
   bottom: 30px;
-  width: 388px;
+  max-width: 388px;
+  width: 100%;
   z-index: 2;
 
   line-height: 25px;
@@ -61,6 +63,10 @@
 .header__link {
   text-decoration: none;
   color: #2f80ed;
+}
+
+.header__link:hover{
+  opacity: 0.5;
 }
 
 .header__main-illustration {
@@ -100,7 +106,8 @@
 
 .two-columns__brief{
   margin: 0;
-  width: 175px;
+  max-width: 175px;
+  width: 100%;
 
   line-height: 1.2;
   font-size: 18px;
@@ -208,7 +215,8 @@
 
 .feynman__title{
   margin: 0;
-  width: 648px;
+  max-width: 648px;
+  width: 100%;
   padding-top: 100px;
 
   text-align: center;
@@ -236,6 +244,10 @@
   font-weight: normal;
   text-decoration: none;
   color: #2f80ed;
+}
+
+.feynman__link:hover{
+  opacity: 0.5;
 }
 
 /* Kaufman */
@@ -370,6 +382,10 @@
   font-weight: normal;
   text-decoration: none;
   color: #fff;
+}
+
+.footer__column-link:hover{
+  opacity: 0.5;
 }
 
 .footer__social-icon{
