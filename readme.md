@@ -1,11 +1,11 @@
-# How-to-learn Project
+# How-to-learn
 
-## Description
+## Описание
 
-This is a Web Page, that describes common approaches to learning process.
+Это веб-страница, на которой описываются общие подходы к процессу обучения.
 
-Here, you can find some articles, quotes and opinions on this matter.
-Besides, you can see some helpful videos from YouTube, that can help you to look over this topic under a different angle.
+Здесь вы можете найти некоторые статьи, цитаты и мнения по этому вопросу.
+Кроме того, вы можете посмотреть несколько полезных видеороликов с YouTube, которые помогут вам взглянуть на эту тему под другим углом.
 ____
-From the technical point of view, here is used flex positioning, links, working with images, videos and animation.
-The whole project is structered in **Nested BEM**.
+С технической точки зрения, здесь используется гибкое позиционирование, ссылки, работа с изображениями, видео и анимацией.
+Весь проект структурирован по методологии **Nested BEM**.
